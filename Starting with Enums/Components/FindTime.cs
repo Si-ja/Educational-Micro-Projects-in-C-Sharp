@@ -45,8 +45,8 @@ namespace Starting_with_Enums.Components
         /// </summary>
         private void FindCurrentDate()
         {
-            localDateOriginal = DateTime.Now;
-            localDateString = this.localDateOriginal.ToString();
+            this.localDateOriginal = DateTime.Now;
+            this.localDateString = this.localDateOriginal.ToString();
             this.ParseDate();
             this.EnumDates();
         }
