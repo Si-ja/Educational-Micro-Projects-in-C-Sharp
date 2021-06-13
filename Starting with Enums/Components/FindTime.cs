@@ -1,5 +1,4 @@
 ﻿using System;
-using Starting_with_Enums.Components;
 
 namespace Starting_with_Enums.Components
 {
