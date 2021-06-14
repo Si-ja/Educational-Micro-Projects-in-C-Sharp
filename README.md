@@ -10,5 +10,5 @@ This repository holds small projects that I have done in a span of say 1-2 hours
 - [ ] Abstract Classes.
 - [ ] Interfaces.
 - [ ] Iterations.
-- [ ] Hashmaps.
+- [X] HashTables. Concept of implementing HashTables is located in the folder `Starting with HashTables`.
 
