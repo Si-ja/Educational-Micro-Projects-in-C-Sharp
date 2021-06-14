@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Starting_with_HashTables.Components
+﻿namespace Starting_with_HashTables.Components
 {
     struct Student
     {
